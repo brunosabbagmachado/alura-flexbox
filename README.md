@@ -19,3 +19,6 @@ As propriedades que utilizei durante o curso foram:
 - order: 1;
 - flex-grow: 1;
 - flex-shrink: 1.
+
+
+Resultado do curso: https://brunosabbagmachado.github.io/alura-flexbox/
